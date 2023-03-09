@@ -2,6 +2,13 @@
 
 /* CSS document for Mom and Pop web site*/
 
+body {
+	background-color: #b37211;
+	margin: 0;
+	padding: 0;
+}
+
+
 .center {
   text-align: center;
  }
